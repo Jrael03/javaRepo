@@ -1,0 +1,7 @@
+This is a MAVEN Java project. To run the project correctly, please follow the below instructions: 
+
+I.) It will be best to run this in eclipse.
+II.) If you don't already, you may need to download maven for eclipse.
+III.) When going to run the program, follow the following file hierarchy: weatherapplication->src->main->java->com->weatherwyse->weatherapplication->APICall.java.
+
+Thanks. :)
