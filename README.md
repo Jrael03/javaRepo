@@ -1,2 +1,2 @@
 # resumeRepo
-Repository for my resume projects.
+This repository is for my Java-based projects.
